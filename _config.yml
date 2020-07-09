@@ -1,0 +1,19 @@
+#user details
+classname: classroom #enter your class name
+schoolname: bananaleafs #enter your github organization name
+
+#title
+title: ClassRoom
+
+#theme
+remote_theme: pmarsceill/just-the-docs
+
+
+#darkmode
+aux_links:
+    "View us on Github":
+    - "https://github.com/bananaleafs"
+    
+aux_links_new_tab: true
+    
+

@@ -1,0 +1,21 @@
+#Lables
+labels:
+    - name: Doubts
+      color: ef7aaf
+    - name: Assignments
+      color:  8ce05c
+    - name: English
+      color: e556ff
+    - name: Exams
+      color: b7bbff
+    - name: Maths
+      color: a4ddf4
+    - name: Science
+      color: 0b8476
+    - name: Social
+      color: 4ed8b1
+    - name: Tamizh
+      color:  eaa788
+    - name: bbbb
+      color: f98918
+  
